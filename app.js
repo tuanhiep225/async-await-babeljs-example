@@ -38,7 +38,7 @@ const getTagContentInHTML = async (url, tag) => {
 }
 
 /*
- * Get h1 & h2 tag content
+ * Get site AnythingJS content
  * This is a async function
  * In async function, you can also use await call orther async functions
  */
